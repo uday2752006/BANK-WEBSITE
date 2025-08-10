@@ -19,6 +19,14 @@ A modern, responsive banking dashboard with light/dark mode toggle and interacti
   - Quick navigation
 - **Modern UI**: Clean interface with intuitive navigation
 
+
+## Screenshots
+
+<img width="1880" height="917" alt="image" src="https://github.com/user-attachments/assets/be62d25b-40bc-47a9-afd9-ea60a24a9c8d" />
+<img width="1904" height="919" alt="image" src="https://github.com/user-attachments/assets/983fa2db-2f70-4057-aa06-74141fd8c55d" />
+
+
+
 ## Technologies Used
 
 - HTML5
